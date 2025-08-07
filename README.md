@@ -1,4 +1,4 @@
-# 🛠️ Full Stack Web App – Django + React
+# 🛠️ Full Stack Inventory Management System – Django + React
 
 This is a full-stack web application built with **Django** (Python) as the backend and **React** (JavaScript) as the frontend. It includes API handling, authentication, and dynamic UI updates.
 
